@@ -1,602 +1,602 @@
 [
   {
-    "Drug Name": "Humira",
-    "Launch Year": "2002",
-    "Lifetime Sales ($ B)": "240",
-    "Patent Expiration (US)": "31/12/2023"
+    "drug": "Humira",
+    "launch_year": "31/12/2002",
+    "lifetime_sales_usdb": "240",
+    "patent_expiry_us": "31/12/2023"
   },
   {
-    "Drug Name": "Keytruda",
-    "Launch Year": "2014",
-    "Lifetime Sales ($ B)": "165",
-    "Patent Expiration (US)": "31/12/2028"
+    "drug": "Keytruda",
+    "launch_year": "31/12/2014",
+    "lifetime_sales_usdb": "165",
+    "patent_expiry_us": "31/12/2028"
   },
   {
-    "Drug Name": "Lipitor",
-    "Launch Year": "1997",
-    "Lifetime Sales ($ B)": "162",
-    "Patent Expiration (US)": "31/12/2011"
+    "drug": "Lipitor",
+    "launch_year": "31/12/1997",
+    "lifetime_sales_usdb": "162",
+    "patent_expiry_us": "31/12/2011"
   },
   {
-    "Drug Name": "Enbrel",
-    "Launch Year": "1998",
-    "Lifetime Sales ($ B)": "140",
-    "Patent Expiration (US)": "31/12/2029"
+    "drug": "Enbrel",
+    "launch_year": "31/12/1998",
+    "lifetime_sales_usdb": "140",
+    "patent_expiry_us": "31/12/2029"
   },
   {
-    "Drug Name": "Remicade",
-    "Launch Year": "1998",
-    "Lifetime Sales ($ B)": "132",
-    "Patent Expiration (US)": "31/12/2016"
+    "drug": "Remicade",
+    "launch_year": "31/12/1998",
+    "lifetime_sales_usdb": "132",
+    "patent_expiry_us": "31/12/2016"
   },
   {
-    "Drug Name": "Rituxan",
-    "Launch Year": "1997",
-    "Lifetime Sales ($ B)": "125",
-    "Patent Expiration (US)": "31/12/2018"
+    "drug": "Rituxan",
+    "launch_year": "31/12/1997",
+    "lifetime_sales_usdb": "125",
+    "patent_expiry_us": "31/12/2018"
   },
   {
-    "Drug Name": "Avastin",
-    "Launch Year": "2004",
-    "Lifetime Sales ($ B)": "118",
-    "Patent Expiration (US)": "31/12/2019"
+    "drug": "Avastin",
+    "launch_year": "31/12/2004",
+    "lifetime_sales_usdb": "118",
+    "patent_expiry_us": "31/12/2019"
   },
   {
-    "Drug Name": "Herceptin",
-    "Launch Year": "1998",
-    "Lifetime Sales ($ B)": "110",
-    "Patent Expiration (US)": "31/12/2019"
+    "drug": "Herceptin",
+    "launch_year": "31/12/1998",
+    "lifetime_sales_usdb": "110",
+    "patent_expiry_us": "31/12/2019"
   },
   {
-    "Drug Name": "Revlimid",
-    "Launch Year": "2005",
-    "Lifetime Sales ($ B)": "108",
-    "Patent Expiration (US)": "31/12/2022"
+    "drug": "Revlimid",
+    "launch_year": "31/12/2005",
+    "lifetime_sales_usdb": "108",
+    "patent_expiry_us": "31/12/2022"
   },
   {
-    "Drug Name": "Eliquis",
-    "Launch Year": "2012",
-    "Lifetime Sales ($ B)": "105",
-    "Patent Expiration (US)": "31/12/2026"
+    "drug": "Eliquis",
+    "launch_year": "31/12/2012",
+    "lifetime_sales_usdb": "105",
+    "patent_expiry_us": "31/12/2026"
   },
   {
-    "Drug Name": "Lantus",
-    "Launch Year": "2000",
-    "Lifetime Sales ($ B)": "102",
-    "Patent Expiration (US)": "31/12/2015"
+    "drug": "Lantus",
+    "launch_year": "31/12/2000",
+    "lifetime_sales_usdb": "102",
+    "patent_expiry_us": "31/12/2015"
   },
   {
-    "Drug Name": "Stelara",
-    "Launch Year": "2009",
-    "Lifetime Sales ($ B)": "95",
-    "Patent Expiration (US)": "31/12/2023"
+    "drug": "Stelara",
+    "launch_year": "31/12/2009",
+    "lifetime_sales_usdb": "95",
+    "patent_expiry_us": "31/12/2023"
   },
   {
-    "Drug Name": "Eylea",
-    "Launch Year": "2011",
-    "Lifetime Sales ($ B)": "82",
-    "Patent Expiration (US)": "31/12/2024"
+    "drug": "Eylea",
+    "launch_year": "31/12/2011",
+    "lifetime_sales_usdb": "82",
+    "patent_expiry_us": "31/12/2024"
   },
   {
-    "Drug Name": "Opdivo",
-    "Launch Year": "2014",
-    "Lifetime Sales ($ B)": "78",
-    "Patent Expiration (US)": "31/12/2028"
+    "drug": "Opdivo",
+    "launch_year": "31/12/2014",
+    "lifetime_sales_usdb": "78",
+    "patent_expiry_us": "31/12/2028"
   },
   {
-    "Drug Name": "Ozempic",
-    "Launch Year": "2017",
-    "Lifetime Sales ($ B)": "72",
-    "Patent Expiration (US)": "31/12/2026"
+    "drug": "Ozempic",
+    "launch_year": "31/12/2017",
+    "lifetime_sales_usdb": "72",
+    "patent_expiry_us": "31/12/2026"
   },
   {
-    "Drug Name": "Advair",
-    "Launch Year": "2000",
-    "Lifetime Sales ($ B)": "71",
-    "Patent Expiration (US)": "31/12/2010"
+    "drug": "Advair",
+    "launch_year": "31/12/2000",
+    "lifetime_sales_usdb": "71",
+    "patent_expiry_us": "31/12/2010"
   },
   {
-    "Drug Name": "Prevnar 13",
-    "Launch Year": "2010",
-    "Lifetime Sales ($ B)": "68",
-    "Patent Expiration (US)": "31/12/2026"
+    "drug": "Prevnar 13",
+    "launch_year": "31/12/2010",
+    "lifetime_sales_usdb": "68",
+    "patent_expiry_us": "31/12/2026"
   },
   {
-    "Drug Name": "Comirnaty",
-    "Launch Year": "2020",
-    "Lifetime Sales ($ B)": "65",
-    "Patent Expiration (US)": "31/12/2033"
+    "drug": "Comirnaty",
+    "launch_year": "31/12/2020",
+    "lifetime_sales_usdb": "65",
+    "patent_expiry_us": "31/12/2033"
   },
   {
-    "Drug Name": "Crestor",
-    "Launch Year": "2003",
-    "Lifetime Sales ($ B)": "64",
-    "Patent Expiration (US)": "31/12/2016"
+    "drug": "Crestor",
+    "launch_year": "31/12/2003",
+    "lifetime_sales_usdb": "64",
+    "patent_expiry_us": "31/12/2016"
   },
   {
-    "Drug Name": "Xarelto",
-    "Launch Year": "2011",
-    "Lifetime Sales ($ B)": "62",
-    "Patent Expiration (US)": "31/12/2024"
+    "drug": "Xarelto",
+    "launch_year": "31/12/2011",
+    "lifetime_sales_usdb": "62",
+    "patent_expiry_us": "31/12/2024"
   },
   {
-    "Drug Name": "Lyrica",
-    "Launch Year": "2004",
-    "Lifetime Sales ($ B)": "60",
-    "Patent Expiration (US)": "31/12/2019"
+    "drug": "Lyrica",
+    "launch_year": "31/12/2004",
+    "lifetime_sales_usdb": "60",
+    "patent_expiry_us": "31/12/2019"
   },
   {
-    "Drug Name": "Plavix",
-    "Launch Year": "1997",
-    "Lifetime Sales ($ B)": "58",
-    "Patent Expiration (US)": "31/12/2012"
+    "drug": "Plavix",
+    "launch_year": "31/12/1997",
+    "lifetime_sales_usdb": "58",
+    "patent_expiry_us": "31/12/2012"
   },
   {
-    "Drug Name": "Nexium",
-    "Launch Year": "2001",
-    "Lifetime Sales ($ B)": "57",
-    "Patent Expiration (US)": "31/12/2014"
+    "drug": "Nexium",
+    "launch_year": "31/12/2001",
+    "lifetime_sales_usdb": "57",
+    "patent_expiry_us": "31/12/2014"
   },
   {
-    "Drug Name": "Januvia",
-    "Launch Year": "2006",
-    "Lifetime Sales ($ B)": "56",
-    "Patent Expiration (US)": "31/12/2026"
+    "drug": "Januvia",
+    "launch_year": "31/12/2006",
+    "lifetime_sales_usdb": "56",
+    "patent_expiry_us": "31/12/2026"
   },
   {
-    "Drug Name": "Dupixent",
-    "Launch Year": "2017",
-    "Lifetime Sales ($ B)": "52",
-    "Patent Expiration (US)": "31/12/2031"
+    "drug": "Dupixent",
+    "launch_year": "31/12/2017",
+    "lifetime_sales_usdb": "52",
+    "patent_expiry_us": "31/12/2031"
   },
   {
-    "Drug Name": "Copaxone",
-    "Launch Year": "1996",
-    "Lifetime Sales ($ B)": "50",
-    "Patent Expiration (US)": "31/12/2015"
+    "drug": "Copaxone",
+    "launch_year": "31/12/1996",
+    "lifetime_sales_usdb": "50",
+    "patent_expiry_us": "31/12/2015"
   },
   {
-    "Drug Name": "Gleevec",
-    "Launch Year": "2001",
-    "Lifetime Sales ($ B)": "49",
-    "Patent Expiration (US)": "31/12/2016"
+    "drug": "Gleevec",
+    "launch_year": "31/12/2001",
+    "lifetime_sales_usdb": "49",
+    "patent_expiry_us": "31/12/2016"
   },
   {
-    "Drug Name": "Biktarvy",
-    "Launch Year": "2018",
-    "Lifetime Sales ($ B)": "48",
-    "Patent Expiration (US)": "31/12/2033"
+    "drug": "Biktarvy",
+    "launch_year": "31/12/2018",
+    "lifetime_sales_usdb": "48",
+    "patent_expiry_us": "31/12/2033"
   },
   {
-    "Drug Name": "Imbruvica",
-    "Launch Year": "2013",
-    "Lifetime Sales ($ B)": "46",
-    "Patent Expiration (US)": "31/12/2032"
+    "drug": "Imbruvica",
+    "launch_year": "31/12/2013",
+    "lifetime_sales_usdb": "46",
+    "patent_expiry_us": "31/12/2032"
   },
   {
-    "Drug Name": "Ocrevus",
-    "Launch Year": "2017",
-    "Lifetime Sales ($ B)": "44",
-    "Patent Expiration (US)": "31/12/2029"
+    "drug": "Ocrevus",
+    "launch_year": "31/12/2017",
+    "lifetime_sales_usdb": "44",
+    "patent_expiry_us": "31/12/2029"
   },
   {
-    "Drug Name": "Neulasta",
-    "Launch Year": "2002",
-    "Lifetime Sales ($ B)": "42",
-    "Patent Expiration (US)": "31/12/2015"
+    "drug": "Neulasta",
+    "launch_year": "31/12/2002",
+    "lifetime_sales_usdb": "42",
+    "patent_expiry_us": "31/12/2015"
   },
   {
-    "Drug Name": "Epogen",
-    "Launch Year": "1989",
-    "Lifetime Sales ($ B)": "41",
-    "Patent Expiration (US)": "31/12/2013"
+    "drug": "Epogen",
+    "launch_year": "31/12/1989",
+    "lifetime_sales_usdb": "41",
+    "patent_expiry_us": "31/12/2013"
   },
   {
-    "Drug Name": "Symbicort",
-    "Launch Year": "2006",
-    "Lifetime Sales ($ B)": "40",
-    "Patent Expiration (US)": "31/12/2023"
+    "drug": "Symbicort",
+    "launch_year": "31/12/2006",
+    "lifetime_sales_usdb": "40",
+    "patent_expiry_us": "31/12/2023"
   },
   {
-    "Drug Name": "Abilify",
-    "Launch Year": "2002",
-    "Lifetime Sales ($ B)": "39",
-    "Patent Expiration (US)": "31/12/2015"
+    "drug": "Abilify",
+    "launch_year": "31/12/2002",
+    "lifetime_sales_usdb": "39",
+    "patent_expiry_us": "31/12/2015"
   },
   {
-    "Drug Name": "Zytiga",
-    "Launch Year": "2011",
-    "Lifetime Sales ($ B)": "38",
-    "Patent Expiration (US)": "31/12/2018"
+    "drug": "Zytiga",
+    "launch_year": "31/12/2011",
+    "lifetime_sales_usdb": "38",
+    "patent_expiry_us": "31/12/2018"
   },
   {
-    "Drug Name": "Ibrance",
-    "Launch Year": "2015",
-    "Lifetime Sales ($ B)": "36",
-    "Patent Expiration (US)": "31/12/2027"
+    "drug": "Ibrance",
+    "launch_year": "31/12/2015",
+    "lifetime_sales_usdb": "36",
+    "patent_expiry_us": "31/12/2027"
   },
   {
-    "Drug Name": "Gardasil",
-    "Launch Year": "2006",
-    "Lifetime Sales ($ B)": "35",
-    "Patent Expiration (US)": "31/12/2028"
+    "drug": "Gardasil",
+    "launch_year": "31/12/2006",
+    "lifetime_sales_usdb": "35",
+    "patent_expiry_us": "31/12/2028"
   },
   {
-    "Drug Name": "Darzalex",
-    "Launch Year": "2015",
-    "Lifetime Sales ($ B)": "34",
-    "Patent Expiration (US)": "31/12/2029"
+    "drug": "Darzalex",
+    "launch_year": "31/12/2015",
+    "lifetime_sales_usdb": "34",
+    "patent_expiry_us": "31/12/2029"
   },
   {
-    "Drug Name": "Harvoni",
-    "Launch Year": "2014",
-    "Lifetime Sales ($ B)": "33",
-    "Patent Expiration (US)": "31/12/2030"
+    "drug": "Harvoni",
+    "launch_year": "31/12/2014",
+    "lifetime_sales_usdb": "33",
+    "patent_expiry_us": "31/12/2030"
   },
   {
-    "Drug Name": "Skyrizi",
-    "Launch Year": "2019",
-    "Lifetime Sales ($ B)": "32",
-    "Patent Expiration (US)": "31/12/2033"
+    "drug": "Skyrizi",
+    "launch_year": "31/12/2019",
+    "lifetime_sales_usdb": "32",
+    "patent_expiry_us": "31/12/2033"
   },
   {
-    "Drug Name": "Sovaldi",
-    "Launch Year": "2013",
-    "Lifetime Sales ($ B)": "31",
-    "Patent Expiration (US)": "31/12/2029"
+    "drug": "Sovaldi",
+    "launch_year": "31/12/2013",
+    "lifetime_sales_usdb": "31",
+    "patent_expiry_us": "31/12/2029"
   },
   {
-    "Drug Name": "Lucentis",
-    "Launch Year": "2006",
-    "Lifetime Sales ($ B)": "30",
-    "Patent Expiration (US)": "31/12/2020"
+    "drug": "Lucentis",
+    "launch_year": "31/12/2006",
+    "lifetime_sales_usdb": "30",
+    "patent_expiry_us": "31/12/2020"
   },
   {
-    "Drug Name": "Prolia",
-    "Launch Year": "2010",
-    "Lifetime Sales ($ B)": "29",
-    "Patent Expiration (US)": "31/12/2025"
+    "drug": "Prolia",
+    "launch_year": "31/12/2010",
+    "lifetime_sales_usdb": "29",
+    "patent_expiry_us": "31/12/2025"
   },
   {
-    "Drug Name": "Sprycel",
-    "Launch Year": "2006",
-    "Lifetime Sales ($ B)": "28",
-    "Patent Expiration (US)": "31/12/2024"
+    "drug": "Sprycel",
+    "launch_year": "31/12/2006",
+    "lifetime_sales_usdb": "28",
+    "patent_expiry_us": "31/12/2024"
   },
   {
-    "Drug Name": "Trikafta",
-    "Launch Year": "2019",
-    "Lifetime Sales ($ B)": "28",
-    "Patent Expiration (US)": "31/12/2037"
+    "drug": "Trikafta",
+    "launch_year": "31/12/2019",
+    "lifetime_sales_usdb": "28",
+    "patent_expiry_us": "31/12/2037"
   },
   {
-    "Drug Name": "Cosentyx",
-    "Launch Year": "2015",
-    "Lifetime Sales ($ B)": "27",
-    "Patent Expiration (US)": "31/12/2029"
+    "drug": "Cosentyx",
+    "launch_year": "31/12/2015",
+    "lifetime_sales_usdb": "27",
+    "patent_expiry_us": "31/12/2029"
   },
   {
-    "Drug Name": "Jardiance",
-    "Launch Year": "2014",
-    "Lifetime Sales ($ B)": "26",
-    "Patent Expiration (US)": "31/12/2028"
+    "drug": "Jardiance",
+    "launch_year": "31/12/2014",
+    "lifetime_sales_usdb": "26",
+    "patent_expiry_us": "31/12/2028"
   },
   {
-    "Drug Name": "Trulicity",
-    "Launch Year": "2014",
-    "Lifetime Sales ($ B)": "25",
-    "Patent Expiration (US)": "31/12/2027"
+    "drug": "Trulicity",
+    "launch_year": "31/12/2014",
+    "lifetime_sales_usdb": "25",
+    "patent_expiry_us": "31/12/2027"
   },
   {
-    "Drug Name": "Gilenya",
-    "Launch Year": "2010",
-    "Lifetime Sales ($ B)": "24",
-    "Patent Expiration (US)": "31/12/2022"
+    "drug": "Gilenya",
+    "launch_year": "31/12/2010",
+    "lifetime_sales_usdb": "24",
+    "patent_expiry_us": "31/12/2022"
   },
   {
-    "Drug Name": "Alimta",
-    "Launch Year": "2004",
-    "Lifetime Sales ($ B)": "24",
-    "Patent Expiration (US)": "31/12/2022"
+    "drug": "Alimta",
+    "launch_year": "31/12/2004",
+    "lifetime_sales_usdb": "24",
+    "patent_expiry_us": "31/12/2022"
   },
   {
-    "Drug Name": "Tagrisso",
-    "Launch Year": "2015",
-    "Lifetime Sales ($ B)": "23",
-    "Patent Expiration (US)": "31/12/2032"
+    "drug": "Tagrisso",
+    "launch_year": "31/12/2015",
+    "lifetime_sales_usdb": "23",
+    "patent_expiry_us": "31/12/2032"
   },
   {
-    "Drug Name": "Farxiga",
-    "Launch Year": "2014",
-    "Lifetime Sales ($ B)": "22",
-    "Patent Expiration (US)": "31/12/2025"
+    "drug": "Farxiga",
+    "launch_year": "31/12/2014",
+    "lifetime_sales_usdb": "22",
+    "patent_expiry_us": "31/12/2025"
   },
   {
-    "Drug Name": "Entresto",
-    "Launch Year": "2015",
-    "Lifetime Sales ($ B)": "21",
-    "Patent Expiration (US)": "31/12/2025"
+    "drug": "Entresto",
+    "launch_year": "31/12/2015",
+    "lifetime_sales_usdb": "21",
+    "patent_expiry_us": "31/12/2025"
   },
   {
-    "Drug Name": "Mounjaro",
-    "Launch Year": "2022",
-    "Lifetime Sales ($ B)": "21",
-    "Patent Expiration (US)": "31/12/2036"
+    "drug": "Mounjaro",
+    "launch_year": "31/12/2022",
+    "lifetime_sales_usdb": "21",
+    "patent_expiry_us": "31/12/2036"
   },
   {
-    "Drug Name": "Tecentriq",
-    "Launch Year": "2016",
-    "Lifetime Sales ($ B)": "20",
-    "Patent Expiration (US)": "31/12/2028"
+    "drug": "Tecentriq",
+    "launch_year": "31/12/2016",
+    "lifetime_sales_usdb": "20",
+    "patent_expiry_us": "31/12/2028"
   },
   {
-    "Drug Name": "Xolair",
-    "Launch Year": "2003",
-    "Lifetime Sales ($ B)": "20",
-    "Patent Expiration (US)": "31/12/2024"
+    "drug": "Xolair",
+    "launch_year": "31/12/2003",
+    "lifetime_sales_usdb": "20",
+    "patent_expiry_us": "31/12/2024"
   },
   {
-    "Drug Name": "Seroquel",
-    "Launch Year": "1997",
-    "Lifetime Sales ($ B)": "19",
-    "Patent Expiration (US)": "31/12/2012"
+    "drug": "Seroquel",
+    "launch_year": "31/12/1997",
+    "lifetime_sales_usdb": "19",
+    "patent_expiry_us": "31/12/2012"
   },
   {
-    "Drug Name": "Perjeta",
-    "Launch Year": "2012",
-    "Lifetime Sales ($ B)": "18",
-    "Patent Expiration (US)": "31/12/2026"
+    "drug": "Perjeta",
+    "launch_year": "31/12/2012",
+    "lifetime_sales_usdb": "18",
+    "patent_expiry_us": "31/12/2026"
   },
   {
-    "Drug Name": "Singulair",
-    "Launch Year": "1998",
-    "Lifetime Sales ($ B)": "18",
-    "Patent Expiration (US)": "31/12/2012"
+    "drug": "Singulair",
+    "launch_year": "31/12/1998",
+    "lifetime_sales_usdb": "18",
+    "patent_expiry_us": "31/12/2012"
   },
   {
-    "Drug Name": "Atripla",
-    "Launch Year": "2006",
-    "Lifetime Sales ($ B)": "18",
-    "Patent Expiration (US)": "31/12/2021"
+    "drug": "Atripla",
+    "launch_year": "31/12/2006",
+    "lifetime_sales_usdb": "18",
+    "patent_expiry_us": "31/12/2021"
   },
   {
-    "Drug Name": "Soliris",
-    "Launch Year": "2007",
-    "Lifetime Sales ($ B)": "17",
-    "Patent Expiration (US)": "31/12/2025"
+    "drug": "Soliris",
+    "launch_year": "31/12/2007",
+    "lifetime_sales_usdb": "17",
+    "patent_expiry_us": "31/12/2025"
   },
   {
-    "Drug Name": "Truvada",
-    "Launch Year": "2004",
-    "Lifetime Sales ($ B)": "17",
-    "Patent Expiration (US)": "31/12/2021"
+    "drug": "Truvada",
+    "launch_year": "31/12/2004",
+    "lifetime_sales_usdb": "17",
+    "patent_expiry_us": "31/12/2021"
   },
   {
-    "Drug Name": "Tivicay",
-    "Launch Year": "2013",
-    "Lifetime Sales ($ B)": "16",
-    "Patent Expiration (US)": "31/12/2027"
+    "drug": "Tivicay",
+    "launch_year": "31/12/2013",
+    "lifetime_sales_usdb": "16",
+    "patent_expiry_us": "31/12/2027"
   },
   {
-    "Drug Name": "Victoza",
-    "Launch Year": "2010",
-    "Lifetime Sales ($ B)": "16",
-    "Patent Expiration (US)": "31/12/2023"
+    "drug": "Victoza",
+    "launch_year": "31/12/2010",
+    "lifetime_sales_usdb": "16",
+    "patent_expiry_us": "31/12/2023"
   },
   {
-    "Drug Name": "Hemlibra",
-    "Launch Year": "2017",
-    "Lifetime Sales ($ B)": "15",
-    "Patent Expiration (US)": "31/12/2029"
+    "drug": "Hemlibra",
+    "launch_year": "31/12/2017",
+    "lifetime_sales_usdb": "15",
+    "patent_expiry_us": "31/12/2029"
   },
   {
-    "Drug Name": "Invega Sustenna",
-    "Launch Year": "2009",
-    "Lifetime Sales ($ B)": "15",
-    "Patent Expiration (US)": "31/12/2023"
+    "drug": "Invega Sustenna",
+    "launch_year": "31/12/2009",
+    "lifetime_sales_usdb": "15",
+    "patent_expiry_us": "31/12/2023"
   },
   {
-    "Drug Name": "Wegovy",
-    "Launch Year": "2021",
-    "Lifetime Sales ($ B)": "14",
-    "Patent Expiration (US)": "31/12/2032"
+    "drug": "Wegovy",
+    "launch_year": "31/12/2021",
+    "lifetime_sales_usdb": "14",
+    "patent_expiry_us": "31/12/2032"
   },
   {
-    "Drug Name": "Kadcyla",
-    "Launch Year": "2013",
-    "Lifetime Sales ($ B)": "14",
-    "Patent Expiration (US)": "31/12/2026"
+    "drug": "Kadcyla",
+    "launch_year": "31/12/2013",
+    "lifetime_sales_usdb": "14",
+    "patent_expiry_us": "31/12/2026"
   },
   {
-    "Drug Name": "Shingrix",
-    "Launch Year": "2017",
-    "Lifetime Sales ($ B)": "14",
-    "Patent Expiration (US)": "31/12/2027"
+    "drug": "Shingrix",
+    "launch_year": "31/12/2017",
+    "lifetime_sales_usdb": "14",
+    "patent_expiry_us": "31/12/2027"
   },
   {
-    "Drug Name": "Rinvoq",
-    "Launch Year": "2019",
-    "Lifetime Sales ($ B)": "13",
-    "Patent Expiration (US)": "31/12/2033"
+    "drug": "Rinvoq",
+    "launch_year": "31/12/2019",
+    "lifetime_sales_usdb": "13",
+    "patent_expiry_us": "31/12/2033"
   },
   {
-    "Drug Name": "Genvoya",
-    "Launch Year": "2015",
-    "Lifetime Sales ($ B)": "13",
-    "Patent Expiration (US)": "31/12/2029"
+    "drug": "Genvoya",
+    "launch_year": "31/12/2015",
+    "lifetime_sales_usdb": "13",
+    "patent_expiry_us": "31/12/2029"
   },
   {
-    "Drug Name": "Pomalyst",
-    "Launch Year": "2013",
-    "Lifetime Sales ($ B)": "12",
-    "Patent Expiration (US)": "31/12/2024"
+    "drug": "Pomalyst",
+    "launch_year": "31/12/2013",
+    "lifetime_sales_usdb": "12",
+    "patent_expiry_us": "31/12/2024"
   },
   {
-    "Drug Name": "Xtandi",
-    "Launch Year": "2012",
-    "Lifetime Sales ($ B)": "12",
-    "Patent Expiration (US)": "31/12/2027"
+    "drug": "Xtandi",
+    "launch_year": "31/12/2012",
+    "lifetime_sales_usdb": "12",
+    "patent_expiry_us": "31/12/2027"
   },
   {
-    "Drug Name": "Jakafi",
-    "Launch Year": "2011",
-    "Lifetime Sales ($ B)": "11",
-    "Patent Expiration (US)": "31/12/2027"
+    "drug": "Jakafi",
+    "launch_year": "31/12/2011",
+    "lifetime_sales_usdb": "11",
+    "patent_expiry_us": "31/12/2027"
   },
   {
-    "Drug Name": "Verzenio",
-    "Launch Year": "2017",
-    "Lifetime Sales ($ B)": "11",
-    "Patent Expiration (US)": "31/12/2029"
+    "drug": "Verzenio",
+    "launch_year": "31/12/2017",
+    "lifetime_sales_usdb": "11",
+    "patent_expiry_us": "31/12/2029"
   },
   {
-    "Drug Name": "Veklury",
-    "Launch Year": "2020",
-    "Lifetime Sales ($ B)": "10.5",
-    "Patent Expiration (US)": "31/12/2035"
+    "drug": "Veklury",
+    "launch_year": "31/12/2020",
+    "lifetime_sales_usdb": "10.5",
+    "patent_expiry_us": "31/12/2035"
   },
   {
-    "Drug Name": "Paxlovid",
-    "Launch Year": "2021",
-    "Lifetime Sales ($ B)": "10",
-    "Patent Expiration (US)": "31/12/2033"
+    "drug": "Paxlovid",
+    "launch_year": "31/12/2021",
+    "lifetime_sales_usdb": "10",
+    "patent_expiry_us": "31/12/2033"
   },
   {
-    "Drug Name": "Kalydeco",
-    "Launch Year": "2012",
-    "Lifetime Sales ($ B)": "10",
-    "Patent Expiration (US)": "31/12/2026"
+    "drug": "Kalydeco",
+    "launch_year": "31/12/2012",
+    "lifetime_sales_usdb": "10",
+    "patent_expiry_us": "31/12/2026"
   },
   {
-    "Drug Name": "Lenvima",
-    "Launch Year": "2015",
-    "Lifetime Sales ($ B)": "9.5",
-    "Patent Expiration (US)": "31/12/2026"
+    "drug": "Lenvima",
+    "launch_year": "31/12/2015",
+    "lifetime_sales_usdb": "9.5",
+    "patent_expiry_us": "31/12/2026"
   },
   {
-    "Drug Name": "Tremfya",
-    "Launch Year": "2017",
-    "Lifetime Sales ($ B)": "9",
-    "Patent Expiration (US)": "31/12/2029"
+    "drug": "Tremfya",
+    "launch_year": "31/12/2017",
+    "lifetime_sales_usdb": "9",
+    "patent_expiry_us": "31/12/2029"
   },
   {
-    "Drug Name": "Nucala",
-    "Launch Year": "2015",
-    "Lifetime Sales ($ B)": "8.5",
-    "Patent Expiration (US)": "31/12/2025"
+    "drug": "Nucala",
+    "launch_year": "31/12/2015",
+    "lifetime_sales_usdb": "8.5",
+    "patent_expiry_us": "31/12/2025"
   },
   {
-    "Drug Name": "Venclexta",
-    "Launch Year": "2016",
-    "Lifetime Sales ($ B)": "8",
-    "Patent Expiration (US)": "31/12/2030"
+    "drug": "Venclexta",
+    "launch_year": "31/12/2016",
+    "lifetime_sales_usdb": "8",
+    "patent_expiry_us": "31/12/2030"
   },
   {
-    "Drug Name": "Kisqali",
-    "Launch Year": "2017",
-    "Lifetime Sales ($ B)": "8",
-    "Patent Expiration (US)": "31/12/2028"
+    "drug": "Kisqali",
+    "launch_year": "31/12/2017",
+    "lifetime_sales_usdb": "8",
+    "patent_expiry_us": "31/12/2028"
   },
   {
-    "Drug Name": "Kyprolis",
-    "Launch Year": "2012",
-    "Lifetime Sales ($ B)": "7.5",
-    "Patent Expiration (US)": "31/12/2027"
+    "drug": "Kyprolis",
+    "launch_year": "31/12/2012",
+    "lifetime_sales_usdb": "7.5",
+    "patent_expiry_us": "31/12/2027"
   },
   {
-    "Drug Name": "Ultomiris",
-    "Launch Year": "2018",
-    "Lifetime Sales ($ B)": "7",
-    "Patent Expiration (US)": "31/12/2035"
+    "drug": "Ultomiris",
+    "launch_year": "31/12/2018",
+    "lifetime_sales_usdb": "7",
+    "patent_expiry_us": "31/12/2035"
   },
   {
-    "Drug Name": "Brukinsa",
-    "Launch Year": "2019",
-    "Lifetime Sales ($ B)": "6.5",
-    "Patent Expiration (US)": "31/12/2034"
+    "drug": "Brukinsa",
+    "launch_year": "31/12/2019",
+    "lifetime_sales_usdb": "6.5",
+    "patent_expiry_us": "31/12/2034"
   },
   {
-    "Drug Name": "Adcetris",
-    "Launch Year": "2011",
-    "Lifetime Sales ($ B)": "6",
-    "Patent Expiration (US)": "31/12/2026"
+    "drug": "Adcetris",
+    "launch_year": "31/12/2011",
+    "lifetime_sales_usdb": "6",
+    "patent_expiry_us": "31/12/2026"
   },
   {
-    "Drug Name": "Symtuza",
-    "Launch Year": "2018",
-    "Lifetime Sales ($ B)": "6",
-    "Patent Expiration (US)": "31/12/2032"
+    "drug": "Symtuza",
+    "launch_year": "31/12/2018",
+    "lifetime_sales_usdb": "6",
+    "patent_expiry_us": "31/12/2032"
   },
   {
-    "Drug Name": "Lynparza",
-    "Launch Year": "2014",
-    "Lifetime Sales ($ B)": "5.5",
-    "Patent Expiration (US)": "31/12/2028"
+    "drug": "Lynparza",
+    "launch_year": "31/12/2014",
+    "lifetime_sales_usdb": "5.5",
+    "patent_expiry_us": "31/12/2028"
   },
   {
-    "Drug Name": "Zepbound",
-    "Launch Year": "2023",
-    "Lifetime Sales ($ B)": "5",
-    "Patent Expiration (US)": "31/12/2036"
+    "drug": "Zepbound",
+    "launch_year": "31/12/2023",
+    "lifetime_sales_usdb": "5",
+    "patent_expiry_us": "31/12/2036"
   },
   {
-    "Drug Name": "Arexvy",
-    "Launch Year": "2023",
-    "Lifetime Sales ($ B)": "3.5",
-    "Patent Expiration (US)": "31/12/2038"
+    "drug": "Arexvy",
+    "launch_year": "31/12/2023",
+    "lifetime_sales_usdb": "3.5",
+    "patent_expiry_us": "31/12/2038"
   },
   {
-    "Drug Name": "Ofev",
-    "Launch Year": "2014",
-    "Lifetime Sales ($ B)": "3.5",
-    "Patent Expiration (US)": "31/12/2025"
+    "drug": "Ofev",
+    "launch_year": "31/12/2014",
+    "lifetime_sales_usdb": "3.5",
+    "patent_expiry_us": "31/12/2025"
   },
   {
-    "Drug Name": "Aimovig",
-    "Launch Year": "2018",
-    "Lifetime Sales ($ B)": "3",
-    "Patent Expiration (US)": "31/12/2031"
+    "drug": "Aimovig",
+    "launch_year": "31/12/2018",
+    "lifetime_sales_usdb": "3",
+    "patent_expiry_us": "31/12/2031"
   },
   {
-    "Drug Name": "Kesimpta",
-    "Launch Year": "2020",
-    "Lifetime Sales ($ B)": "3",
-    "Patent Expiration (US)": "31/12/2031"
+    "drug": "Kesimpta",
+    "launch_year": "31/12/2020",
+    "lifetime_sales_usdb": "3",
+    "patent_expiry_us": "31/12/2031"
   },
   {
-    "Drug Name": "Vyvgart",
-    "Launch Year": "2021",
-    "Lifetime Sales ($ B)": "3",
-    "Patent Expiration (US)": "31/12/2036"
+    "drug": "Vyvgart",
+    "launch_year": "31/12/2021",
+    "lifetime_sales_usdb": "3",
+    "patent_expiry_us": "31/12/2036"
   },
   {
-    "Drug Name": "Tepezza",
-    "Launch Year": "2020",
-    "Lifetime Sales ($ B)": "2.8",
-    "Patent Expiration (US)": "31/12/2033"
+    "drug": "Tepezza",
+    "launch_year": "31/12/2020",
+    "lifetime_sales_usdb": "2.8",
+    "patent_expiry_us": "31/12/2033"
   },
   {
-    "Drug Name": "Enhertu",
-    "Launch Year": "2019",
-    "Lifetime Sales ($ B)": "2.5",
-    "Patent Expiration (US)": "31/12/2033"
+    "drug": "Enhertu",
+    "launch_year": "31/12/2019",
+    "lifetime_sales_usdb": "2.5",
+    "patent_expiry_us": "31/12/2033"
   },
   {
-    "Drug Name": "Zolgensma",
-    "Launch Year": "2019",
-    "Lifetime Sales ($ B)": "2.5",
-    "Patent Expiration (US)": "31/12/2032"
+    "drug": "Zolgensma",
+    "launch_year": "31/12/2019",
+    "lifetime_sales_usdb": "2.5",
+    "patent_expiry_us": "31/12/2032"
   },
   {
-    "Drug Name": "Breyanzi",
-    "Launch Year": "2021",
-    "Lifetime Sales ($ B)": "2.2",
-    "Patent Expiration (US)": "31/12/2035"
+    "drug": "Breyanzi",
+    "launch_year": "31/12/2021",
+    "lifetime_sales_usdb": "2.2",
+    "patent_expiry_us": "31/12/2035"
   },
   {
-    "Drug Name": "Nurtec ODT",
-    "Launch Year": "2020",
-    "Lifetime Sales ($ B)": "2",
-    "Patent Expiration (US)": "31/12/2033"
+    "drug": "Nurtec ODT",
+    "launch_year": "31/12/2020",
+    "lifetime_sales_usdb": "2",
+    "patent_expiry_us": "31/12/2033"
   }
 ]
